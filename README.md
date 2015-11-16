@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi guys!
+
+Manu Hexadec here, I like python and javascript.
